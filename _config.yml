@@ -32,6 +32,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  social_links:
+    twitter: nilshindermann
+    github: nilshindermann
+    stackoverflow: "nilshindermann"
+    facebook: nils.hindermann.90
+    instagram: nilshindermann
+    linkedin: nils-hindermann-67072a1b7
+    youtube_channel: UC9k_RP944r-2Qe6bpuFCfoA
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
